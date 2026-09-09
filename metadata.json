@@ -1,0 +1,6 @@
+{
+  "name": "Zone Souq",
+  "description": "A modern regional trading hub connecting global suppliers with local markets through wholesale trading, import & export, and procurement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
